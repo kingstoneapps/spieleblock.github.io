@@ -1,0 +1,12 @@
+title: Spieleblock
+description: >-
+  Offizielle Website zur Android App Spieleblock.
+
+# App / links
+app_name: Spieleblock
+play_store_url: ""
+
+# Build settings
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed

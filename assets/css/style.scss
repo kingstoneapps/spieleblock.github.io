@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background: url('{{ site.baseurl }}/images/Background.png') center center no-repeat;
+  background-size: auto 100%;
+  text-align: left;
+  background-color: #157878;
+}
+
+.img-left {
+  float: left;
+  display: block;
+  margin-right: 3em;
+  width: 20%;
+  height: auto;
+}
