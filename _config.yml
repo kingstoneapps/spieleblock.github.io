@@ -4,7 +4,7 @@ description: >-
 
 # App / links
 app_name: Spieleblock
-play_store_url: ""
+play_store_url: "https://play.google.com/store/apps/details?id=com.kingstoneapps.spieleblock"
 
 # Build settings
 theme: jekyll-theme-cayman
